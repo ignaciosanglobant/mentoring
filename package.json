@@ -1,0 +1,26 @@
+{
+  "name": "mentoring",
+  "version": "1.0.0",
+  "description": "Mentoring with Pinchi",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ignaciosanglobant/mentoring.git"
+  },
+  "keywords": [
+    "mentoring",
+    "javascript"
+  ],
+  "author": "Ignacio Sanhueza - Felipe Pincheira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ignaciosanglobant/mentoring/issues"
+  },
+  "homepage": "https://github.com/ignaciosanglobant/mentoring#readme",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
